@@ -1,0 +1,1 @@
+[Follow the guide.](https://kojinglick.com/using-htmx-with-rust-quickstart)
